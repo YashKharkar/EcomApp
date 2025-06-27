@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EcomApp</string>
+    <string name="intro_title">Discover Deals, Shop Smarter</string>
+    <string name="intro_sub_title">Explore a wide range of products by category and enjoy a seamless shopping experience.</string>
+    <string name="letsgo">Let’s Get Started</string>
+
+</resources>
